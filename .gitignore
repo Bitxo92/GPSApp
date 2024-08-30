@@ -1,0 +1,181 @@
+# Compiled class file
+
+*.class
+
+
+# Log file
+
+*.log
+
+
+# BlueJ files
+
+*.ctxt
+
+
+# Mobile Tools for Java (MTJ)
+
+.mtj.tmp/
+
+
+# Eclipse
+
+.classpath
+
+.project
+
+.settings/
+
+.idea/
+
+*.iml
+
+*.iws
+
+
+# NetBeans
+
+nbproject/private/
+
+build/
+
+nbbuild/
+
+dist/
+
+nbdist/
+
+*.nib
+
+*.swp
+
+*.swo
+
+
+# IntelliJ IDEA
+
+*.iml
+
+*.idea/
+
+*.iws
+
+*.ipr
+
+
+# Maven
+
+target/
+
+
+# Gradle
+
+.gradle/
+
+build/
+
+
+# JAR files
+
+*.jar
+
+*.war
+
+*.ear
+
+
+# Log files
+
+*.log
+
+
+# OS-specific files
+
+.DS_Store
+
+Thumbs.db
+
+
+# Environment-specific files
+
+.env
+
+
+# Google API key file (if exists)
+
+api_key.properties
+
+
+# Generated files
+
+*.class
+
+*.log
+
+*.tmp
+
+*.swp
+
+
+# Java build files
+
+*.classpath
+
+*.project
+
+*.settings/
+
+*.jar
+
+
+# Eclipse specific
+
+.metadata/
+
+*.launch
+
+*.pydevproject
+
+
+# IntelliJ IDEA specific
+
+.idea/
+
+*.iws
+
+*.iml
+
+*.ipr
+
+
+# Mac specific
+
+.DS_Store
+
+
+# Windows specific
+
+Thumbs.db
+
+
+# Gradle
+
+.gradle/
+
+build/
+
+
+# Maven
+
+target/
+
+
+# Log files
+
+*.log
+
+
+# Environment-specific files
+
+.env
+
